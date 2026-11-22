@@ -279,7 +279,7 @@
             }
         }
 
-        /* ===== ABOUT ===== */
+        /* ====== ABOUT ====== */
         .about-content {
             font-size: clamp(15px, 1.05vw, 17px);
             line-height: 2;
